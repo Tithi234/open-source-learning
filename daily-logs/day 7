@@ -1,0 +1,26 @@
+## Day 7 – Open Source Progress
+
+### 🔹 What I did today
+- Worked on multiple Python-based open source pull requests
+- Prepared a clean, CI-safe contribution focused on documentation and readability
+- Carefully refined code to meet repository style and linting standards
+- Followed best practices for scope control and reviewer-friendly changes
+
+### 🔹 What I learned
+- Small, well-scoped Python changes have a higher chance of approval
+- Understanding repository CI and linting rules is critical for successful PRs
+- Clear docstrings and minimal diffs are appreciated by maintainers
+- Reusing the same repository helps build contributor trust
+
+### 🔹 Challenges faced
+- Ensuring code changes comply with strict CI and formatting checks
+
+### 🔹 How I solved / plan to solve them
+- Reviewed existing code style before making changes
+- Limited changes to documentation and readability improvements
+- Waited for maintainer feedback before making further updates
+
+### 🔹 Reflection
+- I’m becoming more confident contributing to real-world Python repositories
+- The PR workflow feels much more natural now
+- I’m focused on building consistency rather than rushing large changes
