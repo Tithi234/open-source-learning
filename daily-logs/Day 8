@@ -1,0 +1,29 @@
+### Open Source Learning Log – Day 8
+
+**Focus:** Stabilising contributions and understanding open-source workflows
+
+#### What I worked on today
+- Reviewed the current state of my open pull requests across repositories
+- Identified which PRs are clean and CI-passing and which ones need to be left aside
+- Learned how strict contribution templates and checklists are enforced in large repositories
+- Refined my understanding of how maintainers and bots evaluate pull requests
+
+#### What I learned
+- Passing CI and following the contribution checklist is just as important as writing correct code
+- Documentation-only changes must still follow repository guidelines strictly
+- It is okay to close or ignore failing PRs instead of forcing fixes
+- Quality, clarity, and patience matter more than the number of pull requests
+
+#### Challenges faced
+- Dealing with automated bot closures due to checklist and formatting issues
+- Understanding when to stop opening new PRs and focus on cleanup
+
+#### How I addressed them
+- Read contribution guidelines more carefully before opening new PRs
+- Decided to prioritise clean, review-ready Python PRs going forward
+- Adjusted my plan to focus on consistency rather than rushing for numbers
+
+#### Reflection
+- Today helped me slow down and think like a contributor, not just an applicant
+- I feel more confident navigating real open-source workflows
+- Moving forward, I will focus on clean, intentional contributions
