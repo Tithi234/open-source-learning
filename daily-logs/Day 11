@@ -1,0 +1,58 @@
+### Open Source Learning Log – Day 11
+
+**Focus:** Executing a clean Python documentation pull request with proper process compliance
+
+#### What I worked on today
+- Prepared and updated a Python pull request focused on improving module-level documentation
+- Carefully cleaned the code to remove duplication and formatting issues
+- Ensured the pull request followed repository contribution guidelines and checklist requirements
+- Updated the PR description to accurately reflect a documentation-only change
+
+#### What I learned
+- Even small copy–paste or formatting mistakes can break CI and must be handled carefully
+- Clean structure and proper module-level docstrings are important for maintainability
+- Accurately describing the scope of changes in a PR helps avoid reviewer confusion
+- Following the PR checklist precisely prevents automated bot closures
+
+#### Challenges faced
+- Debugging structural issues caused by duplicated code
+- Ensuring the PR description and checklist matched the actual changes made
+
+#### How I addressed them
+- Replaced the file with a single clean version of the code
+- Carefully reviewed and corrected the PR template and checklist
+- Slowed down to validate each step before pushing updates
+
+#### Reflection
+- Today reinforced the importance of precision and patience in open source
+- I feel more confident handling CI issues and repository processes independently
+- My approach is becoming more structured and professional
+### Open Source Learning Log – Day 26
+
+**Focus:** Executing a clean Python documentation pull request with proper process compliance
+
+#### What I worked on today
+- Prepared and updated a Python pull request focused on improving module-level documentation
+- Carefully cleaned the code to remove duplication and formatting issues
+- Ensured the pull request followed repository contribution guidelines and checklist requirements
+- Updated the PR description to accurately reflect a documentation-only change
+
+#### What I learned
+- Even small copy–paste or formatting mistakes can break CI and must be handled carefully
+- Clean structure and proper module-level docstrings are important for maintainability
+- Accurately describing the scope of changes in a PR helps avoid reviewer confusion
+- Following the PR checklist precisely prevents automated bot closures
+
+#### Challenges faced
+- Debugging structural issues caused by duplicated code
+- Ensuring the PR description and checklist matched the actual changes made
+
+#### How I addressed them
+- Replaced the file with a single clean version of the code
+- Carefully reviewed and corrected the PR template and checklist
+- Slowed down to validate each step before pushing updates
+
+#### Reflection
+- Today reinforced the importance of precision and patience in open source
+- I feel more confident handling CI issues and repository processes independently
+- My approach is becoming more structured and professional
