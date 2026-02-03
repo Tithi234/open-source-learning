@@ -1,0 +1,28 @@
+### Open Source Learning Log – day 13
+
+**Focus:** Finalizing and submitting a clean Python documentation pull request
+
+#### What I worked on today
+- Reviewed and finalized a Python implementation of the Greatest Common Divisor algorithm
+- Improved and validated the module-level docstring for clarity and correctness
+- Verified that the code structure, doctests, and type hints were correct
+- Prepared and submitted a documentation-focused pull request following repository guidelines
+
+#### What I learned
+- Small documentation improvements still require careful structure and formatting
+- Verifying module docstrings is essential to avoid syntax or CI issues
+- Clear PR titles and accurate descriptions help maintainers review faster
+- Following the PR checklist precisely prevents automated rejections
+
+#### Challenges faced
+- Ensuring the module docstring and formatting were correct and non-duplicated
+
+#### How I addressed them
+- Carefully reviewed the full file before committing
+- Removed duplication and corrected formatting issues
+- Followed a step-by-step PR process rather than rushing
+
+#### Reflection
+- Today reinforced the importance of precision and patience in open source contributions
+- I feel more confident preparing PRs independently and validating them before submission
+- My workflow is becoming more structured and professional
